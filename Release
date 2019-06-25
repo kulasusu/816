@@ -1,0 +1,12 @@
+Origin: KidsAuto IOS Repo 8.0
+Label: KidsAuto IOS Repo 8.0
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: KidsAuto iOS for Device Model 10.x - 11.4.1
+MD5Sum:
+ 93913f0d54c1eb82be775ee97ec4df7a 7828 Packages
+ 6fbea687c2caaba04fed5e70c0ef8537 2465 Packages.bz2
+ 3aedb65094fc9f5156b00ba82c9cf80b 2167 Packages.gz
